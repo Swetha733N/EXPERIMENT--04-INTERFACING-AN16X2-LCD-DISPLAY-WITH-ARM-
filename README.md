@@ -2,8 +2,14 @@
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
+
+ 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
+
+
 ## Theory 
+
+
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
 What is an ARM7 Processor?
@@ -115,6 +121,7 @@ C2
 Jump to second line, position 2
  
 ## Procedure:
+
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
@@ -169,12 +176,15 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
+
 ![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
 
 
 ## STM 32 CUBE PROGRAM :
+
 # CODE DEVELOPED BY: SWETHA N
 # REGISTER NUMBER: 212222110050
+
 /* USER CODE BEGIN Header */
 /**
   ****************************************************************************
@@ -407,11 +417,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+
 ![image](https://github.com/Swetha733N/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/122199934/6152bc38-ba7b-4d56-8a0f-663da3f19d1e)
 ![image](https://github.com/Swetha733N/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/122199934/f5610352-98a3-4452-ae2a-79ee5b2bde4f)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
  ![image](https://github.com/Swetha733N/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/122199934/72999c05-77da-4133-9fad-63b2827b6d4d)
 
  
